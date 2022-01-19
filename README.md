@@ -13,7 +13,7 @@
 
 The **STM32CubeWL MCU Package** projects are directly running on the STM32WL series boards. You can find in each Projects/*Board name* directories a set of unofficial software projects (Applications), which are not made available in the official STM32CubeWL Release. 
 
-## Examples
+## Example
 
 This Hotspot FW package includes:
 * Application example under "Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy" called SubGHz_Phy_Basic 
