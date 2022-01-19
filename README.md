@@ -1,4 +1,4 @@
-# STM32CubeWL MCU Firmware Package
+# STM32-Hotspot/STM32CubeWL MCU Firmware Package, based on STM32CubeWL Release v1.1.0
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/STM32CubeWL.svg?color=brightgreen)
 
@@ -11,7 +11,7 @@
    * A consistent set of middleware components such as RTOS, FatFS, LoRaWAN, Sigfox, key management services...
    * A full set of software projects (basic examples, applications, and demonstrations) for each board provided for this STM32 series.
 
-The **STM32CubeWL MCU Package** projects are directly running on the STM32WL series boards. You can find in each Projects/*Board name* directories a set of software projects (Applications/Demonstration/Examples).
+The **STM32CubeWL MCU Package** projects are directly running on the STM32WL series boards. You can find in each Projects/*Board name* directories a set of unofficial software projects (Applications/Demonstration/Examples), which are not made available in the official STM32CubeWL Release. 
 
 In this FW Package, the modules listed below are not directly accessible as they are subject to some restrictive license terms requiring user's approval via a "click thu" procedure.
 They have to be downloaded from the [www.st.com](https://www.st.com/content/st_com/en.html) website. The respective URL to download each one of these modules are available in a readme.txt file at the root of each folder.
@@ -19,9 +19,14 @@ They have to be downloaded from the [www.st.com](https://www.st.com/content/st_c
 * *Middlewares/ST/STM32_Secure_Engine*
 * *Middlewares/Third_Party/Sigfox*
 
-## Release note
+## Examples
 
-Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeWL/blob/main/Release_Notes.html).
+This Hotspot FW package includes:
+* Application example under "Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy" called SubGHz_Phy_Basic 
+   * This example implements a basic LoRa radio transmitter and receiver application between two Devices.
+   * Development toolchains and compilers: STM32CubeMX v6.4.0 IAR EWARM V9.10.2
+   * Supported Devices and hardware boards: NUCLEO-WL55JC
+   * Known limitations: None
 
 ## Boards available
 
@@ -33,3 +38,4 @@ Details about the content of this release are available in the release note [her
 **Caution** : The issues and the pull-requests are **strictly limited** to submit problems or suggestions related to the software delivered in this repository.
 
 **For any other question** related to the product, the hardware performance or characteristics, the tools, the environment, you can submit it to the **ST Community** on the STM32 MCUs related [page](https://community.st.com/s/topic/0TO0X000000BSqSWAW/stm32-mcus).
+
