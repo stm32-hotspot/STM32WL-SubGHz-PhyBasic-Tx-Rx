@@ -1,4 +1,4 @@
-# STM32-Hotspot/STM32CubeWL MCU Firmware Package, based on STM32CubeWL Release v1.1.0
+# STM32-Hotspot/STM32WL_SubGHz_Phy_Basic_Tx_Rx MCU Firmware Package, based on STM32CubeWL Release v1.1.0
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/STM32CubeWL.svg?color=brightgreen)
 
