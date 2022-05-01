@@ -1,0 +1,22 @@
+C:\STM32Cube_FW_WL_V1.2.0\Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy\SubGHz_Phy_Basic_LoRa\EWARM\SubGHz_Phy_Basic_LoRa\BrowseInfo\Utilities\stm32_timer.pbi: \
+  C:\Users\joe\ tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\timer\stm32_timer.c \
+  C:\Users\joe\ tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\timer\stm32_timer.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\stdbool.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\ysizet.h \
+  C:\Users\joe\ tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\Users\joe\ tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\STM32Cube_FW_WL_V1.2.0\Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy\SubGHz_Phy_Basic_LoRa\EWARM\..\Core\Inc\utilities_conf.h \
+  C:\Users\joe\ tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\misc\stm32_mem.h \
+  C:\Users\joe\ tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\misc\stm32_tiny_vsnprintf.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\stdarg.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\string.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0_3\arm\inc\c\DLib_Product_string.h \
+  C:\STM32Cube_FW_WL_V1.2.0\Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy\SubGHz_Phy_Basic_LoRa\EWARM\..\Core\Inc\utilities_def.h

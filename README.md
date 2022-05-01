@@ -1,14 +1,14 @@
-# STM32-Hotspot/STM32WL_SubGHz_Phy_Basic_Tx_Rx MCU Firmware Package, based on STM32CubeWL Release v1.1.0
+# STM32-Hotspot/STM32WL_SubGHz_Phy_Basic_Tx_Rx MCU Firmware Package, based on STM32CubeWL Release v1.2.0
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/STM32CubeWL.svg?color=brightgreen)
 
 ## Example
 
 This Hotspot FW package includes:
-* Application example under "Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy" called SubGHz_Phy_Basic.     
+* Application example under "Projects\NUCLEO-WL55JC\Applications\SubGHz_Phy" called SubGHz_Phy_Basic_LoRa.     
    * This example implements a basic LoRa radio transmitter and receiver application between two STM32WL55xx devices (note, two NUCLEO-WL55JC1 are needed; for the Tx and Rx, respectively). The Tx device transmits a short 10 byte packet every 2s, and the Rx device receives these packets and displays the payload on the hyperterminal. 
    * The example also aims to demonstrate to the user how to configure the system (pinout, clocks, peripherals, utilities) and SubGhz middleware from STM32CubeMX to enable the radio in LoRa modulation mode, and show how to schedule and enable a transmission and receive operation from the firmware application.       
-   * Development tools, toolchains/compilers: STM32CubeMX v6.4.0, IAR EWARM V9.10.2
+   * Development tools, toolchains/compilers: STM32CubeMX v6.5.0, IAR EWARM V9.20.2, STM32CubeIDE v1.8.0
    * Supported Devices and hardware boards: NUCLEO-WL55JC1
    * Known limitations: None
 
