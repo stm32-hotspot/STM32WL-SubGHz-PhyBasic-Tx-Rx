@@ -1524,61 +1524,61 @@
         <group>
             <name>STM32WLxx_HAL_Driver</name>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_cortex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_cortex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_dma.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_dma.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_dma_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_dma_ex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_exti.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_exti.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_flash.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_flash.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_flash_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_flash_ex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_gpio.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_gpio.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_pwr.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_pwr.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_pwr_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_pwr_ex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rcc.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rcc.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rcc_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rcc_ex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rtc.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rtc.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rtc_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_rtc_ex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_subghz.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_subghz.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_tim.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_tim.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_tim_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_tim_ex.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_uart.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_uart.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_uart_ex.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32WLxx_HAL_Driver\Src\stm32wlxx_hal_uart_ex.c</name>
             </file>
         </group>
     </group>
@@ -1587,41 +1587,41 @@
         <group>
             <name>SubGHz_Phy</name>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio_driver.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio_driver.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio_fw.c</name>
+                <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Party\SubGHz_Phy\stm32_radio_driver\radio_fw.c</name>
             </file>
         </group>
     </group>
     <group>
         <name>Utilities</name>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\trace\adv_trace\stm32_adv_trace.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\trace\adv_trace\stm32_adv_trace.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\lpm\tiny_lpm\stm32_lpm.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\lpm\tiny_lpm\stm32_lpm.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\misc\stm32_mem.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\misc\stm32_mem.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\sequencer\stm32_seq.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\sequencer\stm32_seq.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\misc\stm32_systime.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\misc\stm32_systime.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\timer\stm32_timer.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\timer\stm32_timer.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\misc\stm32_tiny_sscanf.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\misc\stm32_tiny_sscanf.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\..\..\..\..\..\Users\joe tijerina\STM32Cube\Repository\STM32Cube_FW_WL_V1.2.0\Utilities\misc\stm32_tiny_vsnprintf.c</name>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Utilities\misc\stm32_tiny_vsnprintf.c</name>
         </file>
     </group>
 </project>

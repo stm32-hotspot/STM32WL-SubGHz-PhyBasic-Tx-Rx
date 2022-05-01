@@ -127,7 +127,7 @@ void UTIL_SEQ_Idle(void)
   /* USER CODE BEGIN UTIL_SEQ_Idle_1 */
 
   /* USER CODE END UTIL_SEQ_Idle_1 */
-  //UTIL_LPM_EnterLowPower();   //[JT]
+  //UTIL_LPM_EnterLowPower();  //[JT]
   /* USER CODE BEGIN UTIL_SEQ_Idle_2 */
 
   /* USER CODE END UTIL_SEQ_Idle_2 */
